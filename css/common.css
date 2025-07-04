@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+li{
+    list-style: none;
+}
+
+.flex{
+    display: flex;
+}
+.w_1440{
+    width: 1440px;
+    margin: 0 auto;
+}
